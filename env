@@ -1,0 +1,4 @@
+PORT=3000
+JWT_SECRET=khu_pho_25_long_truong_secret_key_2024
+NODE_ENV=development
+GEMINI_API_KEY=AIzaSyBO16I49AyCoxHCmVHuQwG-hWTP4rc-7TI
